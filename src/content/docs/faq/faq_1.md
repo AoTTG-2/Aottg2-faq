@@ -1,6 +1,0 @@
----
-title: FAQ
-description: frequently asked questions
----
-
-hello
